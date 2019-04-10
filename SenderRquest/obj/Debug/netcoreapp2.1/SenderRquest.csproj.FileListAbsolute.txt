@@ -1,0 +1,14 @@
+C:\Users\wisarut\desktop\RequestHeaderTest\SenderRquest\bin\Debug\netcoreapp2.1\SenderRquest.deps.json
+C:\Users\wisarut\desktop\RequestHeaderTest\SenderRquest\bin\Debug\netcoreapp2.1\SenderRquest.runtimeconfig.json
+C:\Users\wisarut\desktop\RequestHeaderTest\SenderRquest\bin\Debug\netcoreapp2.1\SenderRquest.runtimeconfig.dev.json
+C:\Users\wisarut\desktop\RequestHeaderTest\SenderRquest\bin\Debug\netcoreapp2.1\SenderRquest.dll
+C:\Users\wisarut\desktop\RequestHeaderTest\SenderRquest\bin\Debug\netcoreapp2.1\SenderRquest.pdb
+C:\Users\wisarut\desktop\RequestHeaderTest\SenderRquest\obj\Debug\netcoreapp2.1\SenderRquest.csprojAssemblyReference.cache
+C:\Users\wisarut\desktop\RequestHeaderTest\SenderRquest\obj\Debug\netcoreapp2.1\SenderRquest.csproj.CoreCompileInputs.cache
+C:\Users\wisarut\desktop\RequestHeaderTest\SenderRquest\obj\Debug\netcoreapp2.1\SenderRquest.RazorAssemblyInfo.cache
+C:\Users\wisarut\desktop\RequestHeaderTest\SenderRquest\obj\Debug\netcoreapp2.1\SenderRquest.RazorAssemblyInfo.cs
+C:\Users\wisarut\desktop\RequestHeaderTest\SenderRquest\obj\Debug\netcoreapp2.1\SenderRquest.AssemblyInfoInputs.cache
+C:\Users\wisarut\desktop\RequestHeaderTest\SenderRquest\obj\Debug\netcoreapp2.1\SenderRquest.AssemblyInfo.cs
+C:\Users\wisarut\desktop\RequestHeaderTest\SenderRquest\obj\Debug\netcoreapp2.1\SenderRquest.RazorTargetAssemblyInfo.cache
+C:\Users\wisarut\desktop\RequestHeaderTest\SenderRquest\obj\Debug\netcoreapp2.1\SenderRquest.dll
+C:\Users\wisarut\desktop\RequestHeaderTest\SenderRquest\obj\Debug\netcoreapp2.1\SenderRquest.pdb

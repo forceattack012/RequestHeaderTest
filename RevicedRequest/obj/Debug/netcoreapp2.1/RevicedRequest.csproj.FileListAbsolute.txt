@@ -1,0 +1,14 @@
+C:\Users\wisarut\desktop\RequestHeaderTest\RevicedRequest\obj\Debug\netcoreapp2.1\RevicedRequest.csprojAssemblyReference.cache
+C:\Users\wisarut\desktop\RequestHeaderTest\RevicedRequest\obj\Debug\netcoreapp2.1\RevicedRequest.csproj.CoreCompileInputs.cache
+C:\Users\wisarut\desktop\RequestHeaderTest\RevicedRequest\obj\Debug\netcoreapp2.1\RevicedRequest.RazorAssemblyInfo.cache
+C:\Users\wisarut\desktop\RequestHeaderTest\RevicedRequest\obj\Debug\netcoreapp2.1\RevicedRequest.RazorAssemblyInfo.cs
+C:\Users\wisarut\desktop\RequestHeaderTest\RevicedRequest\obj\Debug\netcoreapp2.1\RevicedRequest.AssemblyInfoInputs.cache
+C:\Users\wisarut\desktop\RequestHeaderTest\RevicedRequest\obj\Debug\netcoreapp2.1\RevicedRequest.AssemblyInfo.cs
+C:\Users\wisarut\desktop\RequestHeaderTest\RevicedRequest\bin\Debug\netcoreapp2.1\RevicedRequest.deps.json
+C:\Users\wisarut\desktop\RequestHeaderTest\RevicedRequest\bin\Debug\netcoreapp2.1\RevicedRequest.runtimeconfig.json
+C:\Users\wisarut\desktop\RequestHeaderTest\RevicedRequest\bin\Debug\netcoreapp2.1\RevicedRequest.runtimeconfig.dev.json
+C:\Users\wisarut\desktop\RequestHeaderTest\RevicedRequest\bin\Debug\netcoreapp2.1\RevicedRequest.dll
+C:\Users\wisarut\desktop\RequestHeaderTest\RevicedRequest\bin\Debug\netcoreapp2.1\RevicedRequest.pdb
+C:\Users\wisarut\desktop\RequestHeaderTest\RevicedRequest\obj\Debug\netcoreapp2.1\RevicedRequest.RazorTargetAssemblyInfo.cache
+C:\Users\wisarut\desktop\RequestHeaderTest\RevicedRequest\obj\Debug\netcoreapp2.1\RevicedRequest.dll
+C:\Users\wisarut\desktop\RequestHeaderTest\RevicedRequest\obj\Debug\netcoreapp2.1\RevicedRequest.pdb
